@@ -23,7 +23,7 @@
   <!-- About the Subject Section -->
   <section id="about-subject">
     <h2>About CIS227-Cloud-Computing-Services</h2>
-    <p>[Your brief description about the subject]</p>
+    <p></p>
   </section>
 
 </body>
